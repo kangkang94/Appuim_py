@@ -50,7 +50,7 @@ def do_business():
         elif len(FrameLayout.find_elements_by_class_name('android.widget.LinearLayout')) == 0:
             continue
         else:
-            print("hhhhhhhhh")
+            print("hhhgit 测试")
 
 
 

@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c0f78a-2245-47c9-8dd8-151c736d3c3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appium_screenshot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appium_test2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appium_text_weixin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base/base_driver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/business/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/business/download_business.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/business/download_friend_info.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/business/login_business.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/business/login_business_second.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/friendInfo.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/userconfig.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/handler/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/handler/login_handle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page/login_page.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/Server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/doc_cmd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/get_by_local.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/port.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/swipe_go.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/write_friend_info.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/write_user_command.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appium_test.py" afterPath="$PROJECT_DIR$/appium_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case/test_case.py" afterPath="$PROJECT_DIR$/case/test_case.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case/test_threading.py" afterPath="$PROJECT_DIR$/case/test_threading.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/LocalElement.ini" afterPath="$PROJECT_DIR$/config/LocalElement.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/read_init.py" afterPath="$PROJECT_DIR$/util/read_init.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appium_screenshot.py" afterPath="$PROJECT_DIR$/appium_screenshot.py" />
     </list>
     <ignored path="Appuim_py.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/appium_screenshot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5959781">
-              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+              <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
               <folding>
                 <element signature="e#14#23#0" expanded="true" />
               </folding>
@@ -239,8 +212,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="142" />
-    <option name="y" value="175" />
+    <option name="x" value="-1330" />
+    <option name="y" value="670" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -838,7 +811,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="142" y="175" width="1440" height="877" extended-state="0" />
+    <frame x="-1330" y="670" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25107297" sideWeight="0.4927235" order="0" side_tool="false" content_ui="combo" />
@@ -1289,7 +1262,7 @@
     <entry file="file://$PROJECT_DIR$/appium_screenshot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5959781">
-          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
           <folding>
             <element signature="e#14#23#0" expanded="true" />
           </folding>
