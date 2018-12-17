@@ -26,9 +26,11 @@ class ReadIni:
             value = self.data.get(section,key)
         except:
             value = None
+            print('没有获取到控件元素信息')
         return value
 
 
 if __name__ == '__main__':
         read_ini  = ReadIni()
-        print(read_ini.get_value('he','login_element'))
+        print(read_ini.get_value('username','login_element'))
+        print('+++')
