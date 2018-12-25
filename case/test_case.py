@@ -4,6 +4,9 @@ import threading
 import multiprocessing
 from appium import webdriver
 import time
+
+from business.download_business import DownloadBusiness
+from business.download_friend_info import DoloadFriendInfo
 from business.login_business import LoginBusiness
 from business.login_business_second import LoginBusinessSecond
 from util.server import Server
@@ -34,7 +37,7 @@ class CaseTest(ParameTestCase):
     #一个case的结束语
     def tearDown(self):
         print('测试用例执行结束+++++++++++++++++++++++++++++')
-
+    '''
     def test_00(self):
         print('this is test_00')
         print('传入的参数'+str(parames))
@@ -43,6 +46,15 @@ class CaseTest(ParameTestCase):
         self.login_business = LoginBusiness(parames,appPackage,appActivity)
         time.sleep(5)
         self.login_business.login_pass()
+    '''
+    def test_00(self):
+        print('this is test_00')
+        print('传入的参数'+str(parames))
+        appPackage = "com.tencent.mm"
+        appActivity = "com.tencent.mm.ui.LauncherUI"
+        self.doload_friend_info = DoloadFriendInfo(parames,appPackage,appActivity)
+        time.sleep(5)
+        self.doload_friend_info.do_business_download()
 
 
     def test_01(self):
