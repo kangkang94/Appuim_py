@@ -1,106 +1,280 @@
-friend_info_西柚-北京阿里: {Name: 西柚-北京阿里, content: " \"圣诞老人在路上～～\"\n  ", link: 没有获取到链接,
-  linkText: ' ', picturePath: ' '}
-friend_info_杨佳天: {Name: 杨佳天, content: 用户没有发表正文信息, link: 没有获取到链接, linkText: ' ', picturePath: ' '}
-friend_info_西柚-北京阿里: {Name: 西柚-北京阿里, content: " \"圣诞老人在路上～～\"\n  ", link: ' ', linkText: ' ',
-  picturePath: ' '}
-friend_info_杨佳天: {Name: 杨佳天, content: " \"圣诞\U0001F384收到最喜欢的礼物哈哈哈哈\"\n  ", link: ' ',
-  linkText: ' ', picturePath: ' '}
-friend_info_清华计算机学长: {Name: 清华计算机学长, content: " \"小马智行Pony.AI获得国家交通部大赛特等奖，从全国近1500个项目中脱颖而出，Pony.AI的L4自动驾驶全栈式技术解决方案获得国家层面的巨大支持！\"\
-    \n  ", link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_陈佳敏: {Name: 陈佳敏, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-"friend_info_\U0001F434": {Name: "\U0001F434", content: 用户没有发表正文信息, link: ' ', linkText: ' ',
-  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_顾向彦: {Name: 顾向彦, content: " \"差不多靠岸啦，拖轮来怼我们了\U0001F602\"\n  ", link: ' ',
-  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_Aaron: {Name: Aaron, content: " \"谁还不是个睫毛精咋的\U0001F937‍♂️\"\n  ", link: ' ',
-  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_Aaron: {Name: Aaron, content: " \"谁还不是个睫毛精咋的\U0001F937‍♂️\"\n  ", link: ' ',
-  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_孟诚: {Name: 孟诚, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_黄晓梅老师: {Name: 黄晓梅老师, content: " \"麻烦大家投票啦七号作品七号作品[抱拳][抱拳][抱拳]\"\n  ",
-  link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_周佳美: {Name: 周佳美, content: " \"忍不住来一张摆拍[捂脸]\"\n  ", link: ' ', linkText: ' ',
-  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_杨紫博: {Name: 杨紫博, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_王永飞: {Name: 王永飞, content: " \"心中没有了念想，大概便是阴天吧\"\n  ", link: ' ', linkText: ' ',
-  picturePath: ' '}
-friend_info_唐维-支付宝: {Name: 唐维-支付宝, content: " \"从一个人人都羡慕的最豪华实验室，搬到了一个惨不忍睹的实验室，还被锁在外面[心碎][心碎][心碎][心碎]\"\
-    \n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_俞佳盈®: {Name: 俞佳盈®, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_俞佳盈®: {Name: 俞佳盈®, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_俞佳盈®: {Name: 俞佳盈®, content: " \"【Niagara Falls】\n  2016 from American\
-    \ side\n  2018 from Canadian side\n  雷神之水 气吞山河\"\n  ", link: ' ', linkText: ' ',
-  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_吴洁-新零售-算法: {Name: 吴洁-新零售-算法, content: " \"刚更新了微信 奇怪为什么有些人的头像右上角有一个小蓝圈呀？\n\
-    \  \n  有胖友解释一下嘛…\"\n  ", link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_大黑楼的外卖店: {Name: 大黑楼的外卖店, content: " \"日照绿茶引用传统制作工艺，不添加任何化学物质。山东省日照市特产，中国国家地理标志产品。日照是世界茶学家公认的三大海绿茶城市之一（另两个分别为日本静冈和韩国宝城）。日照绿茶具有汤色黄绿明亮、栗香浓郁、回味甘醇、叶片厚、香气高、耐冲泡等独特优良品质，被誉为“中国绿茶新贵”。\"\
-    \n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_大黑楼的外卖店: {Name: 大黑楼的外卖店, content: " \"BOSS Wsllet 理财购物一条龙\n  霸屏天下 体现到钱包不收取手续费！！！\"\
-    \n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_大黑楼的外卖店: {Name: 大黑楼的外卖店, content: " \"BOSS Wsllet 理财购物一条龙\n  霸屏天下 体现到钱包不收取手续费！！！\"\
-    \n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_万梓潇-蚂蚁设计师-美国: {Name: 万梓潇-蚂蚁设计师-美国, content: " \"有点喜欢优步的小动效[太阳]\"\n  ",
-  link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_吴汀阳: {Name: 吴汀阳, content: " \"每年的12月24日晚上，我们都会等待一个红帽子白胡子老头。\"\n  ", link: ' ',
-  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_小洁: {Name: 小洁, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: ' '}
-friend_info_吴彦桦: {Name: 吴彦桦, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_蔡奇-国际部: {Name: 蔡奇-国际部, content: " Broadcast completed: result=0\n  ",
-  link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_曾晓南: {Name: 曾晓南, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_黄松松: {Name: 黄松松, content: " \"接到一个电话让我很感动\n  \n  五点在群里发了条消息讲近视，五点半就接到家长电话，和我沟通孩子的情况\n\
-    \  \n  对孩子如此上心，真的不容易\n  \n  然后想到上星期没给家里打电话\U0001F602\"\n  ", link: ' ', linkText: ' ',
-  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_堡垒: {Name: 堡垒, content: " \"你们要的红帽子，白胡子老头\"\n  ", link: ' ', linkText: ' ',
-  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_吴彦桦: {Name: 吴彦桦, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_黄磊-北大: {Name: 黄磊-北大, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: ' '}
-friend_info_八戒: {Name: 八戒, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_李威: {Name: 李威, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_孟诚: {Name: 孟诚, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_罗静: {Name: 罗静, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_周梅芳-室友: {Name: 周梅芳-室友, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
-  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_吴彦桦: {Name: 吴彦桦, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_张泽-算法-蚂蚁: {Name: 张泽-算法-蚂蚁, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
-  picturePath: ' '}
-friend_info_Ivan Huang: {Name: Ivan Huang, content: " Broadcast completed: result=0\n\
-    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_Ivan Huang: {Name: Ivan Huang, content: " Broadcast completed: result=0\n\
-    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_刘猛猛: {Name: 刘猛猛, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: ' '}
-friend_info_千年陈醋: {Name: 千年陈醋, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_大黑楼的外卖店: {Name: 大黑楼的外卖店, content: " Broadcast completed: result=0\n  ",
-  link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_大黑楼的外卖店: {Name: 大黑楼的外卖店, content: " Broadcast completed: result=0\n  ",
-  link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_黄怡: {Name: 黄怡, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_头像一般啦~: {Name: 头像一般啦~, content: " Broadcast completed: result=0\n  ",
-  link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_周梁: {Name: 周梁, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_吴汀阳: {Name: 吴汀阳, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_二艿艿: {Name: 二艿艿, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: ' '}
-friend_info_二艿艿: {Name: 二艿艿, content: " Broadcast completed: result=0\n  ", link: ' ',
-  linkText: ' ', picturePath: ' '}
-friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
-  picturePath: ' '}
 friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: " Broadcast completed: result=0\n\
     \  ", link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_张晶-党支部书记: {Name: 张晶-党支部书记, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
-  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_不胖到135不改名: {Name: 不胖到135不改名, content: " Broadcast completed: result=0\n\
-    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_钭怀啸-支付宝-nlp: {Name: 钭怀啸-支付宝-nlp, content: " Broadcast completed: result=0\n\
-    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
-friend_info_董兆晨: {Name: 董兆晨, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
-friend_info_腾主席: {Name: 腾主席, content: " Broadcast completed: result=0\n  ", link: ' ',
+friend_info_Aaron: {Name: Aaron, content: " Broadcast completed: result=0\n  ", link: ' ',
   linkText: ' ', picturePath: ' '}
-friend_info_俞佳盈®: {Name: 俞佳盈®, content: " Broadcast completed: result=0\n  ", link: ' ',
+friend_info_何俊林-android: {Name: 何俊林-android, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_北邮研二 王利龙-微信android: {Name: 北邮研二 王利龙-微信android, content: 用户没有发表正文信息, link: ' ',
+  linkText: ' ', picturePath: ' '}
+"friend_info_nanako\U0001F319": {Name: "nanako\U0001F319", content: 用户没有发表正文信息, link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_黄磊-北大: {Name: 黄磊-北大, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_变态侦探: {Name: 变态侦探, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_大宝@极客时间: {Name: 大宝@极客时间, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_安晓婷: {Name: 安晓婷, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_李想: {Name: 李想, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_智慧的水母 : {Name: 智慧的水母 , content: " Broadcast completed: result=0\n  ",
+  link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_吴彦桦: {Name: 吴彦桦, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_就叫李尚: {Name: 就叫李尚, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: " Broadcast completed: result=0\n\
+    \  ", link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_Aaron: {Name: Aaron, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_何俊林-android: {Name: 何俊林-android, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_北邮研二 王利龙-微信android: {Name: 北邮研二 王利龙-微信android, content: 用户没有发表正文信息, link: ' ',
+  linkText: ' ', picturePath: ' '}
+"friend_info_nanako\U0001F319": {Name: "nanako\U0001F319", content: 用户没有发表正文信息, link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_黄磊-北大: {Name: 黄磊-北大, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_变态侦探: {Name: 变态侦探, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_刘得宏: {Name: 刘得宏, content: " \"又到了一年一度朋友圈荐歌环节\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_AP$L MMBB: {Name: AP$L MMBB, content: " \"是我了\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_游走走: {Name: 游走走, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_吴彦桦: {Name: 吴彦桦, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_就叫李尚: {Name: 就叫李尚, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: " \"有没有人！收留我！！我完全忘了！！组队！！\"\n  ",
+  link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_Aaron: {Name: Aaron, content: " \"你知道的太多了\U0001F92B\"\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_何俊林-android: {Name: 何俊林-android, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_二艿艿: {Name: 二艿艿, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+"friend_info_nanako\U0001F319": {Name: "nanako\U0001F319", content: 用户没有发表正文信息, link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_黄磊-北大: {Name: 黄磊-北大, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_变态侦探: {Name: 变态侦探, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_大宝@极客时间: {Name: 大宝@极客时间, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_民友-客户端: {Name: 民友-客户端, content: " \"以后就投奔QQ音乐的怀抱了。网易云音乐实在好多歌都没版权\"\n  ",
+  link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_就叫李尚: {Name: 就叫李尚, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: " \"有没有人！收留我！！我完全忘了！！组队！！\"\n  ",
+  link: " \"https://weread.qq.com/wrpage/infinite/lottery?collageId=205768163_20181229&shareVid=205768163&from=timeline&wrRefCgi=&code=081Ev8uY01C2HV1T8MtY0Su0uY0Ev8ub&state=ok_userinfo\"\
+    \n  ", linkText: 木火先生邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: " \"有没有人！收留我！！我完全忘了！！组队！！\"\n  ",
+  link: " \"https://weread.qq.com/wrpage/infinite/lottery?collageId=205768163_20181229&shareVid=205768163&from=timeline\"\
+    \n  ", linkText: 木火先生邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_Aaron: {Name: Aaron, content: " \"你知道的太多了\U0001F92B\"\n  ", link: " \"\
+    http://bdi.pub/c/year2018/KvQbJ/?uid=6D6680E78D2E3BD788E44494A40797A8&full_screen=true&keep_status_bar=true&top_bar_bg_color=f9f9f9&status_bar_type=dark&userid=74739186&from=timeline\"\
+    \n  ", linkText: 2018，我的网易云音乐听歌日记, picturePath: ' '}
+friend_info_何俊林-android: {Name: 何俊林-android, content: 用户没有发表正文信息, link: " \"https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247487974&idx=1&sn=a094d57424ebbdf9b813d7e0a4b5ded1&chksm=eae1e4b4dd966da26a0851234ddd333c6a6f405d6d5931e590a1aaaec6f1bb3966939612c72b&mpshare=1&scene=2&srcid=0104IdgCvFtmo5K8Z442lKZP&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=Lnwoj76F44EWjK%2BV%2BnYM%2FioY5OrKs7Bn2lk%2BX8x1yMYFfxctV8RFbgQcb0wsioFo&wx_header=1\"\
+    \n  ", linkText: 带着问题，再读ijkplayer源码, picturePath: ' '}
+friend_info_二艿艿: {Name: 二艿艿, content: 用户没有发表正文信息, link: " \"https://mp.weixin.qq.com/s?__biz=MzUzMTA2NTU2Ng==&mid=2247486015&idx=1&sn=022407d0d94496b5691fce7e16cd795d&chksm=fa49758ecd3efc986e83331fab0bf33a86c11f8755972b5d7ab63c88ce5bbdc55af00d1a04af&mpshare=1&scene=2&srcid=0104KacDyyu3v48s9woVZjbR&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=Lnwoj76F44EWjK%2BV%2BnYM%2FioY5OrKs7Bn2lk%2BX8x1yMYFfxctV8RFbgQcb0wsioFo&wx_header=1\"\
+    \n  ", linkText: Dubbo 一些你不一定知道但是很好用的功能, picturePath: ' '}
+friend_info_康宇航: {Name: 康宇航, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_康宇航: {Name: 康宇航, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_康宇航: {Name: 康宇航, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_康宇航: {Name: 康宇航, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_奉宁琛: {Name: 奉宁琛, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_上帝是个B-boy: {Name: 上帝是个B-boy, content: " Broadcast completed: result=0\n\
+    \  ", link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_曾晓南: {Name: 曾晓南, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_奉宁琛: {Name: 奉宁琛, content: " \"里弗斯真香！登哥MVP！！\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_上帝是个B-boy: {Name: 上帝是个B-boy, content: " \"这样的登哥怎能让人不爱？！！\"\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_曾晓南: {Name: 曾晓南, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_陈建阳: {Name: 陈建阳, content: " \"残阵干翻宇宙勇，火箭牛逼，登哥牛逼\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_杨紫博: {Name: 杨紫博, content: " \"给哈登跪了[再见][再见][再见]\"\n  ", link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_志先: {Name: 志先, content: " \"这波怎么吹\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_李想: {Name: 李想, content: " \"同志们，学校往美利坚发邮件哪家强？不对，哪家便宜？\"\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_罗箭威: {Name: 罗箭威, content: " \"果然Ed。所以光棍节那天我在干嘛\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_奉宁琛: {Name: 奉宁琛, content: " \"里弗斯真香！登哥MVP！！\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_上帝是个B-boy: {Name: 上帝是个B-boy, content: " \"这样的登哥怎能让人不爱？！！\"\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_曾晓南: {Name: 曾晓南, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_张鸿祥-蚂蚁: {Name: 张鸿祥-蚂蚁, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_吴彦桦: {Name: 吴彦桦, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_林宇星-学弟-库蜜: {Name: 林宇星-学弟-库蜜, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_招商银行: {Name: 招商银行, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_曾晓南: {Name: 曾晓南, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_张哥: {Name: 张哥, content: " \"\U0001F602\U0001F602\U0001F602\"\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_康宇航: {Name: 康宇航, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_康宇航: {Name: 康宇航, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_张鸿祥-蚂蚁: {Name: 张鸿祥-蚂蚁, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+friend_info_吴彦桦: {Name: 吴彦桦, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_林宇星-学弟-库蜜: {Name: 林宇星-学弟-库蜜, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: ' '}
+"friend_info_\U0001F36A龙桑-美团面试官": {Name: "\U0001F36A龙桑-美团面试官", content: " \"最近半年没少折腾消息的顺序性；除了发送方保证消息的有序性外，消费方的消费有序性也很重要\"\
+    \n  ", link: " \"https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961910&idx=1&sn=4eda5b5c327bbaaf5ff1ac344ca9a499&chksm=bd2d0fea8a5a86fc56b80d197876a17bd24c989c15d89abf8d2b356a1f6dc3756cc5b78c9f58&mpshare=1&scene=2&srcid=&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=wei7UZFWhHMViyuDRt6ELSIvsw7ZMY7o7WMVXfH9jFAYIvZY6A%2FxeJ%2FcACjbmF1O&wx_header=1\"\
+    \n  ", linkText: 消息顺序性为何这么难？, picturePath: ' '}
+friend_info_小洁: {Name: 小洁, content: " \"老北京早餐\"\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_张鸿祥-蚂蚁: {Name: 张鸿祥-蚂蚁, content: 用户没有发表正文信息, link: " \"https://itunes.apple.com/cn/story/id1446531739?from=timeline\"\
+    \n  ", linkText: ‎何方妙笔，可绘千山, picturePath: ' '}
+friend_info_吴彦桦: {Name: 吴彦桦, content: " \".....我那一天是手机被偷了吗？\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_林宇星-学弟-库蜜: {Name: 林宇星-学弟-库蜜, content: " \"登哥\U0001F402\U0001F37A\n  把虎扑服务器打服了\"\
+    \n  ", link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_大熊: {Name: 大熊, content: " \"登哥能下手轻点吗 我勇抗不住了\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_奉宁琛: {Name: 奉宁琛, content: " \"里弗斯真香！登哥MVP！！\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_上帝是个B-boy: {Name: 上帝是个B-boy, content: " \"这样的登哥怎能让人不爱？！！\"\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_俞果: {Name: 俞果, content: " \"来朋友圈打个小广告哈[愉快]\n  非常好吃的披萨\U0001F60B，店名:17pizza\n\
+    \  用料实在，价钱合理，理工北门有店面，只接受外卖～欢迎大家下单品尝（P4是老板微信可以直接联系）\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_Aaron: {Name: Aaron, content: 用户没有发表正文信息, link: " \"https://m.bilibili.com/video/av39226044.html?share_source=weixin_moments&p=1&ts=1546589449&share_medium=iphone&bbid=77cf3fc7bac22aa00d87ce4a8792f17f&from=timeline\"\
+    \n  ", linkText: 90后初老症诊断书 | 有些人看起来无所畏惧，背地里却开始硬核养生了 | 夹性芝..., picturePath: ' '}
+friend_info_张泽-算法-蚂蚁: {Name: 张泽-算法-蚂蚁, content: " \"学校知道这有多难用吗，技术文档根本不全，完全就是瞎子摸象[捂脸][捂脸]\"\
+    \n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_校友-运营-菜鸟: {Name: 校友-运营-菜鸟, content: " \"万万没想到\n  个人所得税成了2019第一款黑马app\U0001F44F\
+    \U0001F3FB\U0001F44F\U0001F3FB\U0001F44F\U0001F3FB\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_不胖到135不改名: {Name: 不胖到135不改名, content: " \"什么携程智行飞猪\n  都是弟弟\n  比不上暖男的手速\n\
+    \  我哭了，抢个票真难\"\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+"friend_info_\U0001F36A龙桑-美团面试官": {Name: "\U0001F36A龙桑-美团面试官", content: " \"最近半年没少折腾消息的顺序性；除了发送方保证消息的有序性外，消费方的消费有序性也很重要\"\
+    \n  ", link: " \"https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961910&idx=1&sn=4eda5b5c327bbaaf5ff1ac344ca9a499&chksm=bd2d0fea8a5a86fc56b80d197876a17bd24c989c15d89abf8d2b356a1f6dc3756cc5b78c9f58&mpshare=1&scene=2&srcid=&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=pkM%2Bo5ZsCFKSXPkKBExVQIXBf%2BX5zfK9KJ%2FMzg4ir8cpg5UJNIUVx0KHXDEz68%2F9&wx_header=1\"\
+    \n  ", linkText: 消息顺序性为何这么难？, picturePath: ' '}
+friend_info_小洁: {Name: 小洁, content: " \"老北京早餐\"\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_张鸿祥-蚂蚁: {Name: 张鸿祥-蚂蚁, content: 用户没有发表正文信息, link: " \"https://itunes.apple.com/cn/story/id1446531739?from=timeline\"\
+    \n  ", linkText: ‎何方妙笔，可绘千山, picturePath: ' '}
+friend_info_吴彦桦: {Name: 吴彦桦, content: " \".....我那一天是手机被偷了吗？\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_林宇星-学弟-库蜜: {Name: 林宇星-学弟-库蜜, content: " \"登哥\U0001F402\U0001F37A\n  把虎扑服务器打服了\"\
+    \n  ", link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_陈某某: {Name: 陈某某, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_安晓婷: {Name: 安晓婷, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_郑桂凤: {Name: 郑桂凤, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_陈某某: {Name: 陈某某, content: " \"今天是萌萌的西红柿鸡蛋面\n  其实就是鸡蛋买多了\U0001F644\"\n\
+    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_安晓婷: {Name: 安晓婷, content: " \"我听见我的身体冲我大喊说我再作不好好吃饭好好睡觉就搞死我\"\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_郑桂凤: {Name: 郑桂凤, content: " \"？[拳头][拳头][拳头]\n  一定成功\n  \n  祝我家的宝贝！耽误大家两分钟时间，有一小任务，亲们，拜托了！看见这个帮我转发在朋友圈好吗？只需要19个人，咱家宝贝就可以参加清大全脑（工大校区）暑期免费体验班了，看见的朋友帮忙复制一下，够意思转一个，[抱拳][抱拳]先复制，然后长按右上角相机后，粘贴。就[OK]\
+    \   还差6位  帮忙。\U0001F60A[OK]'\"\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_孟诚: {Name: 孟诚, content: " \"#回家日常#\n  我妈：姚明死了吗？\n  我：没有\n  我爸：周星驰死了吗？\n\
+    \  我：没有\n  我成了谣言粉碎机[擦汗]\n  心心念念老妈做的炸酱面，可能得有两三年没吃过了，虽然生病，但感觉还是原来的味道，非常美味。[爱心]\"\
+    \n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_张鑫: {Name: 张鑫, content: " \"2018\U0001F3B5\"\n  ", link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_朱琳: {Name: 朱琳, content: " \"我谢谢你了[微笑]\"\n  ", link: " \"https://m.weibo.cn/status/4324423781366874?wm=3333_2001&from=timeline&sourcetype=weixin&featurecode=newtitle\"\
+    \n  ", linkText: 来来来 评论里给大家看一下什么叫..., picturePath: ' '}
+friend_info_赵红: {Name: 赵红, content: " \"我妈今天刚跟火山学的蒸蛋糕[奸笑][奸笑]感谢火山的老铁们\"\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_Aaron: {Name: Aaron, content: " \"这绝不是一个奖励拼搏的年代，只是我们需要这种理由来骗自己活下去。\"\n\
+    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_threejin_DUT: {Name: threejin_DUT, content: " \"Jordan Canonical form，性感的一匹\"\
+    \n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_好牙: {Name: 好牙, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_陈佳敏: {Name: 陈佳敏, content: 用户没有发表正文信息, link: " \"https://mp.weixin.qq.com/s?__biz=MzA3NTM1NTMzMg==&mid=2649833341&idx=1&sn=0201820655321d5ae9107fa8977626ee&chksm=87745ad6b003d3c01c46a7ff07d9afa617cf6d7bc58e962255dc80abd67fe07c95c8cd66e1ae&mpshare=1&scene=2&srcid=0104kgiV5tNM8BpQj4BvD9Gt&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=oIHMJNSW21oZKmZoULwZpOgZX8%2FNcI3vF7P7qpWkB1p%2FsEcmC%2BmdQmitx5Q3oy4%2B&wx_header=1\"\
+    \n  ", linkText: 年末盘点丨2018年度公司法十大典型案例, picturePath: ' '}
+friend_info_陈佳敏: {Name: 陈佳敏, content: 用户没有发表正文信息, link: " \"https://mp.weixin.qq.com/s?__biz=MzA3NTM1NTMzMg==&mid=2649833341&idx=1&sn=0201820655321d5ae9107fa8977626ee&chksm=87745ad6b003d3c01c46a7ff07d9afa617cf6d7bc58e962255dc80abd67fe07c95c8cd66e1ae&mpshare=1&scene=2&srcid=0104kgiV5tNM8BpQj4BvD9Gt&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=oIHMJNSW21oZKmZoULwZpOgZX8%2FNcI3vF7P7qpWkB1p%2FsEcmC%2BmdQmitx5Q3oy4%2B&wx_header=1\"\
+    \n  ", linkText: 年末盘点丨2018年度公司法十大典型案例, picturePath: ' '}
+friend_info_孟诚: {Name: 孟诚, content: 用户没有发表正文信息, link: " \"https://jiguangdanci.easylesson.cn/?name=MC%F0%9F%8C%9F&profile=http%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2Fvi_32%2FFD2pn0MOicKibbuyXX5dA8HaRKblnC9libfp8ibRFu7IPuEL3AicISxr86UnlOJgBPXEeG510gJzgUD16BicLZcnzR2A%2F132&public=true&days=80&words=637&shareId=93&cover=%2Fuploads%2Fac26d495-31ed-46d8-b8a3-7cbbb02d23dd.jpg&word=deduction&phoneticSymbol=d%C9%AA%27d%CA%8Ck%CA%83%C9%99n&definition=n.%20%E6%89%A3%E9%99%A4&codeSrc=http%3A%2F%2Fjiguang-qrcode-service.oss-cn-beijing.aliyuncs.com%2Fqr%2Fopenid-textid-5c366d17-edc6-4d6c-98fc-0054c8ff3cf7.png&from=timeline#/public/day-share\"\
+    \n  ", linkText: deduction -扣除，记单词80天「个税专项附加扣除APP正式启用」, picturePath: ' '}
+friend_info_richardcao-饿了吗: {Name: richardcao-饿了吗, content: " \"我觉得我给东航交了30块钱智商税[微笑]\n\
+    \  还好只买了返程票，去程票明天再买[皱眉]\"\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_廖思琪: {Name: 廖思琪, content: 用户没有发表正文信息, link: " \"https://mp.weixin.qq.com/s?__biz=MzA3Nzk5OTgyNQ==&mid=2651413742&idx=1&sn=02b64bf565758150df367b41e9881d2d&chksm=84b48750b3c30e4688726c97b4d4c077459854506269a55974f2ce6a73c1f6a15716ffdcc9dc&mpshare=1&scene=2&srcid=0104NNiyeLcYBmLBszcMlg9y&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=oIHMJNSW21oZKmZoULwZpOgZX8%2FNcI3vF7P7qpWkB1p%2FsEcmC%2BmdQmitx5Q3oy4%2B&wx_header=1\"\
+    \n  ", linkText: 个税红包来了！答题就有奖！快快快！, picturePath: ' '}
+friend_info_腾主席: {Name: 腾主席, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_俞果: {Name: 俞果, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_Aaron: {Name: Aaron, content: 用户没有发表正文信息, link: " \"https://m.bilibili.com/video/av39226044.html?share_source=weixin_moments&p=1&ts=1546589449&share_medium=iphone&bbid=77cf3fc7bac22aa00d87ce4a8792f17f&from=timeline\"\
+    \n  ", linkText: 90后初老症诊断书 | 有些人看起来无所畏惧，背地里却开始硬核养生了 | 夹性芝..., picturePath: ' '}
+friend_info_张泽-算法-蚂蚁: {Name: 张泽-算法-蚂蚁, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_校友-运营-菜鸟: {Name: 校友-运营-菜鸟, content: 用户没有发表正文信息, link: ' ', linkText: ' ',
+  picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_不胖到135不改名: {Name: 不胖到135不改名, content: " \"什么携程智行飞猪\n  都是弟弟\n  比不上暖男的手速\n\
+    \  我哭了，抢个票真难\"\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+"friend_info_\U0001F36A龙桑-美团面试官": {Name: "\U0001F36A龙桑-美团面试官", content: " \"最近半年没少折腾消息的顺序性；除了发送方保证消息的有序性外，消费方的消费有序性也很重要\"\
+    \n  ", link: " \"https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961910&idx=1&sn=4eda5b5c327bbaaf5ff1ac344ca9a499&chksm=bd2d0fea8a5a86fc56b80d197876a17bd24c989c15d89abf8d2b356a1f6dc3756cc5b78c9f58&mpshare=1&scene=2&srcid=&from=timeline&ascene=2&devicetype=android-25&version=2607033d&nettype=WIFI&abtest_cookie=BQABAAgACgALABMAFAAFAJ2GHgAmlx4AV5keAJuZHgCcmR4AAAA%3D&lang=zh_CN&pass_ticket=oIHMJNSW21oZKmZoULwZpOgZX8%2FNcI3vF7P7qpWkB1p%2FsEcmC%2BmdQmitx5Q3oy4%2B&wx_header=1\"\
+    \n  ", linkText: 消息顺序性为何这么难？, picturePath: ' '}
+friend_info_小洁: {Name: 小洁, content: " \"老北京早餐\"\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_张鸿祥-蚂蚁: {Name: 张鸿祥-蚂蚁, content: 用户没有发表正文信息, link: " \"https://itunes.apple.com/cn/story/id1446531739?from=timeline\"\
+    \n  ", linkText: ‎何方妙笔，可绘千山, picturePath: ' '}
+friend_info_林宇星-学弟-库蜜: {Name: 林宇星-学弟-库蜜, content: " \"登哥\U0001F402\U0001F37A\n  把虎扑服务器打服了\"\
+    \n  ", link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_林宇星-学弟-库蜜: {Name: 林宇星-学弟-库蜜, content: " \"登哥\U0001F402\U0001F37A\n  把虎扑服务器打服了\"\
+    \n  ", link: ' ', linkText: ' ', picturePath: ' '}
+friend_info_孟诚: {Name: 孟诚, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_露露姐姐: {Name: 露露姐姐, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_黄晓梅老师: {Name: 黄晓梅老师, content: " Broadcast completed: result=0\n  ", link: " Broadcast\
+    \ completed: result=0\n  ", linkText: May邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_孟诚: {Name: 孟诚, content: 用户没有发表正文信息, link: " Broadcast completed: result=0\n\
+    \  ", linkText: probe -探测器，记单词81天「嫦娥四号探测器着陆月球背面」, picturePath: ' '}
+friend_info_孟诚: {Name: 孟诚, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_露露姐姐: {Name: 露露姐姐, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_黄晓梅老师: {Name: 黄晓梅老师, content: " Broadcast completed: result=0\n  ", link: " Broadcast\
+    \ completed: result=0\n  ", linkText: May邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_孟诚: {Name: 孟诚, content: 用户没有发表正文信息, link: " Broadcast completed: result=0\n\
+    \  ", linkText: probe -探测器，记单词81天「嫦娥四号探测器着陆月球背面」, picturePath: ' '}
+friend_info_孟诚: {Name: 孟诚, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: ' '}
+friend_info_露露姐姐: {Name: 露露姐姐, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_黄晓梅老师: {Name: 黄晓梅老师, content: " Broadcast completed: result=0\n  ", link: " Broadcast\
+    \ completed: result=0\n  ", linkText: May邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_孟诚: {Name: 孟诚, content: 用户没有发表正文信息, link: " Broadcast completed: result=0\n\
+    \  ", linkText: probe -探测器，记单词81天「嫦娥四号探测器着陆月球背面」, picturePath: ' '}
+friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 木火先生邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 木火先生邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_林焱-12级老乡: {Name: 林焱-12级老乡, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 木火先生邀请你参与微信读书无限卡抽奖，中奖率100%, picturePath: ' '}
+friend_info_林宇星-学弟-库蜜: {Name: 林宇星-学弟-库蜜, content: " Broadcast completed: result=0\n\
+    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_李世雄-蚂蚁金服: {Name: 李世雄-蚂蚁金服, content: " Broadcast completed: result=0\n\
+    \  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_richardcao-饿了吗: {Name: richardcao-饿了吗, content: " Broadcast completed:\
+    \ result=0\n  ", link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_Rick朱润康: {Name: Rick朱润康, content: " Broadcast completed: result=0\n  ",
+  link: " Broadcast completed: result=0\n  ", linkText: 这届韭菜不行，都知道反击了……, picturePath: ' '}
+friend_info_楼小玄: {Name: 楼小玄, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_陈建阳: {Name: 陈建阳, content: " Broadcast completed: result=0\n  ", link: " Broadcast\
+    \ completed: result=0\n  ", linkText: 林俊杰杭州站门票免费送！每人两张！, picturePath: ' '}
+friend_info_luc-key: {Name: luc-key, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 【中国大陆/纪录片】西南联大 全5集【2018】, picturePath: ' '}
+friend_info_民友-客户端: {Name: 民友-客户端, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 精读英文外刊第 30 天：美国政府关门的第三周：80 万政府员工停薪回家 No ..., picturePath: ' '}
+friend_info_王鑫: {Name: 王鑫, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_luc-key: {Name: luc-key, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 【中国大陆/纪录片】西南联大 全5集【2018】, picturePath: ' '}
+friend_info_民友-客户端: {Name: 民友-客户端, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 精读英文外刊第 30 天：美国政府关门的第三周：80 万政府员工停薪回家 No ..., picturePath: ' '}
+friend_info_加油: {Name: 加油, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_小洁: {Name: 小洁, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_顾向彦: {Name: 顾向彦, content: " Broadcast completed: result=0\n  ", link: " Broadcast\
+    \ completed: result=0\n  ", linkText: 紧急求助！O型血且患过腺病毒肺炎的人请联系我们！这关系着一个孩子的生命！, picturePath: ' '}
+friend_info_顾向彦: {Name: 顾向彦, content: " Broadcast completed: result=0\n  ", link: " Broadcast\
+    \ completed: result=0\n  ", linkText: 紧急求助！O型血且患过腺病毒肺炎的人请联系我们！这关系着一个孩子的生命！, picturePath: ' '}
+friend_info_李昶明: {Name: 李昶明, content: 用户没有发表正文信息, link: " Broadcast completed: result=0\n\
+    \  ", linkText: foldable -可折叠的，记单词120天「苹果新专利曝光，iPhone屏幕向..., picturePath: ' '}
+friend_info_顾向彦: {Name: 顾向彦, content: 用户没有发表正文信息, link: " Broadcast completed: result=0\n\
+    \  ", linkText: 紧急求助！O型血且患过腺病毒肺炎的人请联系我们！这关系着一个孩子的生命！, picturePath: ' '}
+friend_info_小洁: {Name: 小洁, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_廖凌熙: {Name: 廖凌熙, content: 用户没有发表正文信息, link: ' ', linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_王鑫: {Name: 王鑫, content: " Broadcast completed: result=0\n  ", link: ' ',
+  linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}
+friend_info_luc-key: {Name: luc-key, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 【中国大陆/纪录片】西南联大 全5集【2018】, picturePath: ' '}
+friend_info_民友-客户端: {Name: 民友-客户端, content: 用户没有发表正文信息, link: " Broadcast completed:\
+    \ result=0\n  ", linkText: 精读英文外刊第 30 天：美国政府关门的第三周：80 万政府员工停薪回家 No ..., picturePath: ' '}
+friend_info_加油: {Name: 加油, content: " Broadcast completed: result=0\n  ", link: ' ',
   linkText: ' ', picturePath: /Users/kang/Documents/github/Appuim_py/screenshots/WeiXin}

@@ -2,6 +2,8 @@
 from base.base_driver import BaseDriver
 from util.get_by_local import GetByLocal
 import time
+import threading
+from apscheduler.schedulers.background import BackgroundScheduler
 #业务层,直接在业务层写代码
 class LoginBusiness:
     def __init__(self,i,appPackage,appActivity):
@@ -63,6 +65,24 @@ class LoginBusiness:
         self.driver.find_element_by_id('cn.com.open.mooc:id/download_tv').click()
 
 
+
+
+
+    def save_path(self, i):
+
+        img_folder = "/Users/kang/Desktop/phone"+str(i)+"/"
+        screen_save_path = img_folder + str(i) + ".png"
+        self.driver.get_screenshot_as_file(screen_save_path)
+
+
+
+    def main(self):
+
+        scheduler = BackgroundScheduler()
+        scheduler.add_job(self.save_path,'interval',seconds=1,args=(0,))
+        scheduler.start()
+
+        self.login_pass()
 
 
 

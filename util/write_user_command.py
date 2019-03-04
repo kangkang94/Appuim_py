@@ -5,7 +5,7 @@ class WriteUserCommand:
 
     #加载yaml数据
     def read_data(self):
-        with open('../config/userconfig.yaml') as fr:
+        with open('/Users/kang/Documents/github/Appuim_py/config/userconfig.yaml') as fr:
             data = yaml.load(fr)
             return data
 
@@ -18,7 +18,7 @@ class WriteUserCommand:
     def write_data(self,i,bp,deviceName,port):
 
         data = self.join_data(i,bp,deviceName,port)
-        with open('../config/userconfig.yaml','a') as fr:
+        with open('/Users/kang/Documents/github/Appuim_py/config/userconfig.yaml','a') as fr:
             yaml.dump(data,fr)
 
     #改变 data数据格式为yaml识别的格式
@@ -33,7 +33,7 @@ class WriteUserCommand:
         return data
     #在start server之前把yaml里的信息均删除
     def clear_data(self):
-        with open('../config/userconfig.yaml','w') as fr:
+        with open('/Users/kang/Documents/github/Appuim_py/config/userconfig.yaml','w') as fr:
             fr.truncate()
         fr.close()
     #yaml是字典,data[key][port],所以直接获取数据的行数

@@ -10,15 +10,15 @@ class BaseDriver:
         #device_name
         #port
         write_file = WriteUserCommand()
-        devices = write_file.get_value('user_info_'+str(i),'deviceName')
-        port = write_file.get_value('user_info_'+str(i),'port')
+        devices = write_file.get_value('user_info_'+str(i//2),'deviceName')
+        port = write_file.get_value('user_info_'+str(i//2),'port')
         capabilities = {
             "platformName": "Android",
             "deviceName": devices,
             "appPackage": appPackage,
             #activity 选哪一个 要研究透彻 appAwaitActivity
             "appActivity": appActivity,
-            #"unicodeKeyboard": "true"
+            "unicodeKeyboard": "true"
         }
         driver = webdriver.Remote("http://127.0.0.1:"+str(port)+"/wd/hub",capabilities)
         return driver

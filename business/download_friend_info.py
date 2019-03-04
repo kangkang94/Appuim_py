@@ -1,4 +1,4 @@
-#coding=utf-8
+# coding=utf-8
 from base.base_driver import BaseDriver
 from util.get_by_local import GetByLocal
 import time
@@ -8,26 +8,25 @@ from util.get_clipboard import getClipboard
 from util.get_from_phone import getFromPhone
 from util.swipe_go import SwipeGo
 from util.write_friend_info import WriteFriendInfo
-
+from util.write_to_db import WriteToDb
+import emoji
+from apscheduler.schedulers.background import BackgroundScheduler
 class DoloadFriendInfo:
-    def __init__(self,i,appPackage,appActivity):
+    def __init__(self, i, appPackage, appActivity):
         base_driver = BaseDriver()
-        self.driver = base_driver.android_driver(i,appPackage,appActivity)
+        self.driver = base_driver.android_driver(i, appPackage, appActivity)
         self.get_by_local = GetByLocal(self.driver)
         self.get_clipboard = getClipboard()
 
         self.write_Friend_Info = WriteFriendInfo()
         self.get_size = SwipeGo(self.driver)
+        self.writeToDb = WriteToDb()
 
-
-
-    def save_path(self,nickname):
-        img_folder = "/Users/kang/Documents/github/Appuim_py/screenshots/"
-        name = time.strftime('%Y%m%d%H%M', time.localtime(time.time())) + nickname
-        screen_save_path = img_folder + name + ".png"
+    def save_path(self, i):
+        img_folder = "/Users/kang/Desktop/phone0/"
+        screen_save_path = img_folder + str(i) + ".png"
         self.driver.get_screenshot_as_file(screen_save_path)
-
-
+        return screen_save_path
 
     def swipe_up_start(self):
         x1 = self.get_size.get_size()[0] / 2
@@ -35,9 +34,8 @@ class DoloadFriendInfo:
         y = 10
         self.driver.swipe(x1, y1, x1, y, 10000)
 
-
     # 校正滑动距离
-    def adjust_distance(self,y, height):
+    def adjust_distance(self, y, height):
         if (y > 200) and (y < 300):
             height = height + 50
 
@@ -47,9 +45,8 @@ class DoloadFriendInfo:
             height = height + 300
         return y, height
 
-
     # 获取朋友圈正文内容
-    def get_view(self,element):
+    def get_view(self, element):
         try:
             text_view = element.find_element_by_id('com.tencent.mm:id/jv')
             t_x = text_view.location['x']
@@ -65,78 +62,77 @@ class DoloadFriendInfo:
 
         return text
 
-
     # 获取朋友圈图片或者朋友圈链接
-    def get_picture(self,element):
+    def get_picture(self, element):
         try:
-            picture_Linear = element.find_element_by_id('com.tencent.mm:id/e21')
+            self.picture_Linear = element.find_element_by_id('com.tencent.mm:id/e21')
             try:
-                view_1 = picture_Linear.find_element_by_id('com.tencent.mm:id/e3e')
-                self.click_pictures(picture_Linear)
+                view_1 = self.picture_Linear.find_element_by_id('com.tencent.mm:id/e3e')
+                version_list = self.click_pictures(self.picture_Linear)
                 picture_path = '/Users/kang/Documents/github/Appuim_py/screenshots/WeiXin'
                 link = " "
                 link_text = " "
             except:
-                link_text = self.get_link_text(picture_Linear)
-                link = self.get_link(picture_Linear)
+                link_text = self.get_link_text(self.picture_Linear)
+                link = self.get_link(self.picture_Linear)
                 print("这是链接-----" + link_text)
                 print(link)
                 picture_path = " "
-
-            print(str(len(picture_Linear.find_elements_by_class_name('android.view.View'))) + "图片数量")
-            print(str(len(picture_Linear.find_elements_by_class_name('android.widget.LinearLayout'))) + "链接是否正常")
+                version_list = []
 
         except:
             print("没有识别到图片")
             picture_path = " "
             link_text = " "
             link = " "
+            version_list = []
 
-        return picture_path, link_text, link
+        return picture_path, link_text, link, version_list
 
-
-
-    #从手机中拉取当前下载的图片并重命名-(注意 魅族手机和电脑的unix相差34秒)
+    # 从手机中拉取当前下载的图片并重命名-(注意 魅族手机和电脑的unix相差34秒)
     def pull_picture(self):
         get_from_phone = getFromPhone()
 
         nowtime = int(time.time())
-        print(str(nowtime)+"#################################################################################")
-        #注意 电脑的unix时间戳一定要和手机的unix时间戳一致
-        for itime in range(nowtime-35,nowtime-33,1):
-            get_from_phone.get_from_phone(itime, self.nickname)
-        return (nowtime-34)
+        print(str(nowtime) + "#################################################################################")
+        # 注意 电脑的unix时间戳一定要和手机的unix时间戳一致
+        for itime in range(nowtime - 45, nowtime - 43, 1):
+            get_from_phone.get_from_phone(0, itime, self.nickname)
+        return (nowtime - 44)
 
     # 点击图片,保存到sdcard/tencent/micromsg/WeiXin
-    def click_pictures(self,picture_Linear):
+    def click_pictures(self, picture_Linear):
         view_elements = picture_Linear.find_elements_by_class_name('android.view.View')
+        version_list = []
         for element_item in view_elements:
 
-            element_item.click()
-            time.sleep(2)
-            self.driver.tap([(540, 860)], 1500)
-            time.sleep(1)
-            self.driver.find_element_by_android_uiautomator('new UiSelector().text("保存图片")').click()
+            try:
+                element_item.click()
+                time.sleep(2)
+                self.driver.tap([(540, 860)], 1500)
+                time.sleep(1)
+                self.driver.find_element_by_android_uiautomator('new UiSelector().text("保存图片")').click()
 
-            version = self.pull_picture()
-            time.sleep(2)
-            self.driver.tap([(540, 860)], 300)
-            time.sleep(2)
+                version = self.pull_picture()
+                version_list.append(version)
+                time.sleep(2)
+                self.driver.tap([(540, 860)], 300)
+                time.sleep(2)
 
-            print("图片保存出错了")
-            time.sleep(2)
+            except:
 
+                print("图片拉取失败")
+        return version_list
 
     # 点击链接 获取链接
-    def get_link_text(element):
+    def get_link_text(self, element):
         try:
             link_text = element.find_element_by_id('com.tencent.mm:id/cot').text
         except:
             link_text = " "
         return link_text
 
-
-    def get_link(self,element):
+    def get_link(self, element):
         try:
             element.find_element_by_id('com.tencent.mm:id/cot').click()
             time.sleep(5)
@@ -150,12 +146,16 @@ class DoloadFriendInfo:
             link = "没有获取到链接"
         return link
 
+    ###写入yaml文件
+    def save_to_yaml(self, nickname, plainText, view_list):
+        self.write_Friend_Info.write_data(nickname, plainText, view_list)
 
-    def save_to_yaml(self,nickname,plainText,view_list):
-        self.write_Friend_Info.write_data(nickname,plainText,view_list)
+    ###写入mysql database
+    def save_to_db(self, nickname, plainText, view_list):
+        self.writeToDb.writeData(nickname, plainText, view_list[1], view_list[2], view_list[0], str(view_list[3]))
 
     def do_open(self):
-         # 打开朋友圈
+        # 打开朋友圈
         footer = self.driver.find_elements_by_id('com.tencent.mm:id/cw2')
         footer[2].click()
         friend = self.driver.find_element_by_id('android:id/list')
@@ -164,7 +164,6 @@ class DoloadFriendInfo:
         time.sleep(3)
 
         self.swipe_up_start()
-
 
     def do_business(self):
         element = self.driver.find_element_by_id('com.tencent.mm:id/e2p')
@@ -278,33 +277,36 @@ class DoloadFriendInfo:
             time.sleep(1)
             view_list = self.get_picture(frame_list[3])
             height = frame_list[3].size['height']
-            #保存数据
-            self.save_to_yaml(self.nickname,plain_text,view_list)
+            # 保存数据
+            self.save_to_yaml(self.nickname, plain_text, view_list)
+            self.save_to_db(emoji.demojize(self.nickname), emoji.demojize(plain_text), view_list)
         except:
 
             try:
                 y = frame_list[2].location['y']
                 print(str(y) + "3333hhhhhh")
-                nickname = frame_list[2].find_element_by_id('com.tencent.mm:id/azl').text
+                self.nickname = frame_list[2].find_element_by_id('com.tencent.mm:id/azl').text
                 time.sleep(1)
                 plain_text = self.get_view(frame_list[2])
                 time.sleep(1)
                 view_list = self.get_picture(frame_list[2])
                 height = frame_list[2].size['height']
-                #保存数据
-                self.save_to_yaml(nickname,plain_text,view_list)
+                # 保存数据
+                self.save_to_yaml(self.nickname, plain_text, view_list)
+                self.save_to_db(self.nickname, plain_text, view_list)
             except:
 
                 y = frame_list[1].location['y']
                 print(str(y) + "3333hhhhhh")
-                nickname = frame_list[1].find_element_by_id('com.tencent.mm:id/azl').text
+                self.nickname = frame_list[1].find_element_by_id('com.tencent.mm:id/azl').text
                 time.sleep(1)
                 plain_text = self.get_view(frame_list[1])
                 time.sleep(1)
                 view_list = self.get_picture(frame_list[1])
                 height = frame_list[1].size['height']
-                #保存数据
-                self.save_to_yaml(nickname,plain_text,view_list)
+                # 保存数据
+                self.save_to_yaml(self.nickname, plain_text, view_list)
+                self.save_to_db(self.nickname, plain_text, view_list)
         times = 5000
         print(height)
 
@@ -408,26 +410,19 @@ class DoloadFriendInfo:
             self.driver.swipe(x, y1, x, y, times)
             time.sleep(2)
 
-        #业务入口
+            # 业务入口
+
     def do_business_download(self):
         self.do_open()
         var = 1
         self.do_business()
 
         while var == 1:
-
             self.down_info()
 
+    def main_friend(self):
+        scheduler = BackgroundScheduler()
+        scheduler.add_job(self.save_path,'interval',seconds=1,args=(0,))
+        scheduler.start()
 
-
-
-
-
-
-
-
-
-
-
-
-
+        self.do_business_download()
